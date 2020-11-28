@@ -2,8 +2,8 @@ resources:
   repositories:
   - repository: libplist
     type: github
-    endpoint: libimobiledevice-win32
-    name: libimobiledevice-win32/libplist
+    endpoint: nanamicat
+    name: nanamicat/libplist
     ref: msvc/master
   - repository: libusbmuxd
     type: github
