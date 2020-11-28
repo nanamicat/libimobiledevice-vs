@@ -7,43 +7,43 @@ resources:
     ref: msvc/master
   - repository: libusbmuxd
     type: github
-    endpoint: libimobiledevice-win32
-    name: libimobiledevice-win32/libusbmuxd
+    endpoint: nanamicat
+    name: nanamicat/libusbmuxd
     ref: msvc/master
   - repository: libimobiledevice
     type: github
-    endpoint: libimobiledevice-win32
-    name: libimobiledevice-win32/libimobiledevice
+    endpoint: nanamicat
+    name: nanamicat/libimobiledevice
     ref: msvc/master
   - repository: libideviceactivation
     type: github
-    endpoint: libimobiledevice-win32
-    name: libimobiledevice-win32/libideviceactivation
+    endpoint: nanamicat
+    name: nanamicat/libideviceactivation
     ref: msvc/master
   - repository: ideviceinstaller
     type: github
-    endpoint: libimobiledevice-win32
-    name: libimobiledevice-win32/ideviceinstaller
+    endpoint: nanamicat
+    name: nanamicat/ideviceinstaller
     ref: msvc/master
   - repository: libirecovery
     type: github
-    endpoint: libimobiledevice-win32
-    name: libimobiledevice-win32/libirecovery
+    endpoint: nanamicat
+    name: nanamicat/libirecovery
     ref: msvc/master
   - repository: idevicerestore
     type: github
-    endpoint: libimobiledevice-win32
-    name: libimobiledevice-win32/idevicerestore
+    endpoint: nanamicat
+    name: nanamicat/idevicerestore
     ref: msvc/master
   - repository: usbmuxd
     type: github
-    endpoint: libimobiledevice-win32
-    name: libimobiledevice-win32/usbmuxd
+    endpoint: nanamicat
+    name: nanamicat/usbmuxd
     ref: master-msvc
   - repository: ios-webkit-debug-proxy
     type: github
-    endpoint: libimobiledevice-win32
-    name: libimobiledevice-win32/ios-webkit-debug-proxy
+    endpoint: nanamicat
+    name: nanamicat/ios-webkit-debug-proxy
     ref: msvc/master
 
 jobs:
