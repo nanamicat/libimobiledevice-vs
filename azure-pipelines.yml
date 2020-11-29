@@ -29,12 +29,12 @@ resources:
     type: github
     endpoint: nanamicat
     name: nanamicat/libirecovery
-    ref: ../tags/v1.3.6
+    ref: msvc/master
   - repository: idevicerestore
     type: github
     endpoint: nanamicat
     name: nanamicat/idevicerestore
-    ref: ../tags/v1.3.6
+    ref: msvc/master
   - repository: usbmuxd
     type: github
     endpoint: nanamicat
@@ -44,7 +44,7 @@ resources:
     type: github
     endpoint: nanamicat
     name: nanamicat/ios-webkit-debug-proxy
-    ref: ../tags/v1.3.6
+    ref: msvc/master
 
 jobs:
 - job: windows
