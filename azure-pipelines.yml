@@ -51,10 +51,10 @@ jobs:
   strategy:
     maxParallel: 4
     matrix:
-      x64:
-        BUILD_ARCH: x64
-        PLATFORM: x64
-        RID: win-x64
+      # x64:
+      #   BUILD_ARCH: x64
+      #   PLATFORM: x64
+      #   RID: win-x64
       x86:
         BUILD_ARCH: x86
         PLATFORM: Win32
