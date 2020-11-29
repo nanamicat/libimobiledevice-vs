@@ -4,7 +4,7 @@ resources:
     type: github
     endpoint: nanamicat
     name: nanamicat/libplist
-    ref: v1.3.6
+    ref: bbba7ca
   - repository: libusbmuxd
     type: github
     endpoint: nanamicat
