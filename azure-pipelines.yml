@@ -4,47 +4,47 @@ resources:
     type: github
     endpoint: nanamicat
     name: nanamicat/libplist
-    ref: msvc/master
+    ref: tags/v1.3.6
   - repository: libusbmuxd
     type: github
     endpoint: nanamicat
     name: nanamicat/libusbmuxd
-    ref: msvc/master
+    ref: tags/v1.3.6
   - repository: libimobiledevice
     type: github
     endpoint: nanamicat
     name: nanamicat/libimobiledevice
-    ref: msvc/master
+    ref: tags/v1.3.6
   - repository: libideviceactivation
     type: github
     endpoint: nanamicat
     name: nanamicat/libideviceactivation
-    ref: msvc/master
+    ref: tags/v1.3.6
   - repository: ideviceinstaller
     type: github
     endpoint: nanamicat
     name: nanamicat/ideviceinstaller
-    ref: msvc/master
+    ref: tags/v1.3.6
   - repository: libirecovery
     type: github
     endpoint: nanamicat
     name: nanamicat/libirecovery
-    ref: msvc/master
+    ref: tags/v1.3.6
   - repository: idevicerestore
     type: github
     endpoint: nanamicat
     name: nanamicat/idevicerestore
-    ref: msvc/master
+    ref: tags/v1.3.6
   - repository: usbmuxd
     type: github
     endpoint: nanamicat
     name: nanamicat/usbmuxd
-    ref: master-msvc
+    ref: tags/v1.3.6
   - repository: ios-webkit-debug-proxy
     type: github
     endpoint: nanamicat
     name: nanamicat/ios-webkit-debug-proxy
-    ref: msvc/master
+    ref: tags/v1.3.6
 
 jobs:
 - job: windows
