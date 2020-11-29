@@ -4,7 +4,7 @@ resources:
     type: github
     endpoint: nanamicat
     name: nanamicat/libplist
-    ref: /tags/v1.3.6
+    ref: refs/tags/v1.3.6
   - repository: libusbmuxd
     type: github
     endpoint: nanamicat
